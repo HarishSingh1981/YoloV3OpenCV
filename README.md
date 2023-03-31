@@ -4,4 +4,4 @@
  
  The project is done just to understand the YoloV3 model training and realization part. Below image is given as input to model:
  
- ![image](output/myImage.jpg)
+ ![image](annotated_image.jpg)
